@@ -1,0 +1,78 @@
+/* Example styling of a h1 element */
+body {
+  box-sizing: border-box;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0%
+}
+
+.question {
+  background-color: rgb(223, 223, 211);
+  padding: 50px 10px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  margin: 20%;
+  color: #f54960;
+
+}
+
+p {
+  color: rgb(177, 125, 177);
+  font-size: 20px ;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1.4;
+}
+
+.picture {
+padding: 20px 10px;
+}
+
+img {   
+  border-radius: 30%;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.links {
+  padding: 50px 10px;
+  border: 1px solid black;
+}
+
+h3 {
+  color: #f54960;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  text-align:center;
+  letter-spacing: 1px;
+}
+
+ul{
+  color: rgb(168, 187, 168);
+  margin-top: 50px;
+  margin-bottom: 30px;
+  list-style-type: circle;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1.4;
+}
+
+a {
+  color: rgb(168, 187, 168);
+  display: inline-block;
+}
+
+footer {
+  background-color: #f54960;
+  padding: 150px 300px;
+}
